@@ -24,7 +24,6 @@ public class Project1 {
         } catch (NumberFormatException var5) {
             System.out.println("That is not an option. C'mon man. Please. I worked hard on this.");
         }
-
         if (choice == 1) {
             System.out.println("Uh oh! That was the hungry boi! You gotten eaten immediately!");
         }
