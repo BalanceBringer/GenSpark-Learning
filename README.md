@@ -1,2 +1,2 @@
 # GenSpark-Learning
-This is the home of my learning projects!
+This is the home of my projects!
